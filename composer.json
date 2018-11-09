@@ -1,0 +1,14 @@
+{
+    "name": "alex/api",
+    "description": "Personal api",
+    "require": {
+        "php": "7.X"
+    },
+    "authors": [
+        {
+            "name": "LETANG Alexandre",
+            "email": "letang.alexandre88@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
