@@ -3,8 +3,6 @@
 
 ## Installation
 
-Pour récuperer l'ensemble de l'API,
-
 ```Markdown
 git clone https://github.com/aletang/Apitest
 ```
