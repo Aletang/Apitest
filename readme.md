@@ -41,5 +41,5 @@ hashtags (string)
 
 -Gestion des erreurs  
 -Optimisation du code  
--Ajout d'un type array de hashtags
+-Ajout d'un type array de hashtags  
 -Interface d'ajout d'entrée
